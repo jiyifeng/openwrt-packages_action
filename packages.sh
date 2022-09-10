@@ -101,6 +101,7 @@ svn co https://github.com/messense/aliyundrive-webdav/trunk/openwrt/aliyundrive-
 svn co https://github.com/sbwml/luci-app-mosdns/trunk/mosdns ./mosdns
 svn co https://github.com/sbwml/luci-app-mosdns/trunk/luci-app-mosdns ./luci-app-mosdns
 git clone https://github.com/sbwml/v2ray-geodata
+svn co https://github.com/TorBoxCode/luci-app-tencentddns ./luci-app-tencentddns
 
 rm -rf .svn
 rm -rf ./*/.git
